@@ -234,6 +234,10 @@ body {
     gap: 0.5rem;
 }
 
+.project-card>p {
+    color: gray;
+}
+
 .actions {
     margin-top: 2rem;
     display: flex;
@@ -259,6 +263,10 @@ body {
     padding-bottom: 1rem;
     border-bottom: 1px solid var(--color-main-shadow);
     padding: 0.5rem;
+}
+
+.announcement-card>p {
+    color: gray;
 }
 
 .announcement-card:last-of-type {
